@@ -7,7 +7,12 @@ Bu proje Java Spring, JavaScript ve MySQL yazılımlarını kullanarak, pet klin
 
 | Dil / Yetenek | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
-| Java Spring | :arrow_right: | 95 |
+| Java | :arrow_right: | 95 |
+| Spring MVC | :arrow_right: | 95 |
+| Spring Boot | :arrow_right: | 95 |
+| Spring JPA | :arrow_right: | 95 |
+| Spring Validation | :arrow_right: | 95 |
+| Thymeleaf | :arrow_right: | 90 |
 | JavaScript | :arrow_right: | 90 |
 | MySQL| :arrow_right: | 85 |
 
